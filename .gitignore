@@ -1,0 +1,31 @@
+## GENERAL ================================================================
+
+Makefile
+
+## QT CREATOR =============================================================
+
+*.autosave
+*64.png
+*80.png
+html/
+*.desktop
+*.user
+
+# Build results
+build-*
+moc_*
+
+## OPERATING SYSTEM JUNK ===================================================
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
